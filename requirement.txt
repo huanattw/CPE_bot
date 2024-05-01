@@ -1,0 +1,5 @@
+requests
+configparser
+ddddocr
+bs4
+lxml
